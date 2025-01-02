@@ -1,0 +1,96 @@
+/* Reset básico */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Estilização do corpo */
+body {
+    display: grid;
+    place-items: center; /* Centraliza horizontal e verticalmente */
+    height: 100vh;       /* Define altura do body como 100% da viewport */
+    background: linear-gradient(to bottom, #FFDD00, #87CEEB); /* Fundo solar */
+    font-family: 'Arial', sans-serif;
+    color: #333; /* Cor do texto padrão */
+}
+
+/* Container do formulário */
+.form-container {
+    width: 50%;
+    background-color: #fff; /* Fundo branco para contraste */
+    color: #333; /* Cor de texto escuro */
+    padding: 20px;
+    border-radius: 10px; /* Cantos arredondados */
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2); /* Sombra */
+    text-align: center; /* Centraliza o conteúdo */
+    border: 2px solid #FFDD00; /* Borda temática */
+}
+
+/* Cabeçalho */
+h1 {
+    text-align: center;
+    color: #FF8C00; /* Laranja vibrante como o pôr do sol */
+    margin-bottom: 20px;
+    font-size: 2em;
+}
+
+/* Formulário */
+form {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+/* Labels */
+label {
+    font-weight: bold;
+    margin-bottom: 5px;
+    color: #555;
+}
+
+/* Campos de entrada */
+input, select {
+    padding: 10px;
+    font-size: 16px;
+    border: 2px solid #87CEEB; /* Azul céu */
+    border-radius: 5px;
+    width: 100%;
+    transition: all 0.3s ease;
+}
+
+input:focus, select:focus {
+    outline: none;
+    border-color: #FF8C00; /* Realce laranja */
+    box-shadow: 0 0 10px rgba(255, 140, 0, 0.5);
+}
+
+/* Botão */
+button {
+    background-color: #FF8C00; /* Laranja vibrante */
+    color: white;
+    border: none;
+    padding: 12px;
+    font-size: 16px;
+    font-weight: bold;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease, transform 0.2s ease;
+}
+
+button:hover {
+    background-color: #E67E22; /* Laranja escuro */
+    transform: scale(1.05); /* Leve aumento */
+}
+
+/* Responsividade */
+@media (max-width: 600px) {
+    .form-container {
+        width: 90%; /* Ajusta a largura em telas menores */
+        padding: 15px;
+    }
+
+    input, select, button {
+        font-size: 14px;
+    }
+}
