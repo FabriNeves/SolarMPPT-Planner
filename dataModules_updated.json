@@ -1,0 +1,862 @@
+[
+    {
+        "model": "EMST 430SG BLACK",
+        "technology": " SHINGLED ",
+        "maxPower": {
+            "val": "430",
+            "unit": "W"
+        },
+        "efficiency": {
+            "val": "20,70",
+            "unit": ""
+        },
+        "nominalVoltage": {
+            "val": "39,00",
+            "unit": "V"
+        },
+        "openCircuitVoltage": {
+            "val": "43,50",
+            "unit": "V"
+        },
+        "shortCircuitCurrent": {
+            "val": "12,86",
+            "unit": "A"
+        },
+        "dimensions": {
+            "val": "1096",
+            "unit": "x"
+        },
+        "weight": {
+            "val": "21,8",
+            "unit": "kg"
+        },
+        "connector ": "Compatível com MC4",
+        "tempCoeffPmax": "-0,34 %/ºC",
+        "tempCoeffVoc": "-0,27 %/ºC",
+        "tempCoeffIsc": "+0,04%ºC",
+        "manufacturer": "INTELBRAS"
+    },
+    {
+        "model": "DAH-DHM 72L9",
+        "technology": "SILÍCIO MONOCRISTALINO",
+        "maxPower": {
+            "val": "435",
+            "unit": "W"
+        },
+        "efficiency": {
+            "val": "20,01",
+            "unit": ""
+        },
+        "nominalVoltage": {
+            "val": "41,66",
+            "unit": "V"
+        },
+        "openCircuitVoltage": {
+            "val": "48,85",
+            "unit": "V"
+        },
+        "shortCircuitCurrent": {
+            "val": "10,44",
+            "unit": "A"
+        },
+        "dimensions": {
+            "val": "1038",
+            "unit": "x"
+        },
+        "weight": {
+            "val": "28,5",
+            "unit": "Kg"
+        },
+        "connector ": "Compatível com MC4",
+        "tempCoeffPmax": "-0,36%/ºC",
+        "tempCoeffVoc": "-0,29%/ºC",
+        "tempCoeffIsc": "+0,048%/ºC",
+        "manufacturer": "DAH SOLAR"
+    },
+    {
+        "model": "EMSB-455 HC",
+        "technology": "Monocristalino, Half Cell, PERC",
+        "maxPower": {
+            "val": "455",
+            "unit": "W"
+        },
+        "efficiency": {
+            "val": "21,08",
+            "unit": ""
+        },
+        "nominalVoltage": {
+            "val": "34,82",
+            "unit": "V"
+        },
+        "openCircuitVoltage": {
+            "val": "41,24",
+            "unit": "V"
+        },
+        "shortCircuitCurrent": {
+            "val": "13,95",
+            "unit": "A"
+        },
+        "dimensions": {
+            "val": "1903",
+            "unit": "x"
+        },
+        "weight": {
+            "val": "23,4",
+            "unit": "kg"
+        },
+        "connector ": "Compatível com MC4",
+        "tempCoeffPmax": "-0,36 %/ºC",
+        "tempCoeffVoc": "-0,29 %/ºC",
+        "tempCoeffIsc": "+0,048 %/ºC",
+        "manufacturer": "INTELBRAS"
+    },
+    {
+        "model": "LONGI SOLAR 66HPH 505W",
+        "technology": "Monofacial",
+        "maxPower": {
+            "val": "505",
+            "unit": "W"
+        },
+        "efficiency": {
+            "val": "21,30",
+            "unit": ""
+        },
+        "nominalVoltage": {
+            "val": "38,53",
+            "unit": "V"
+        },
+        "openCircuitVoltage": {
+            "val": "45,7",
+            "unit": "V"
+        },
+        "shortCircuitCurrent": {
+            "val": "13,11",
+            "unit": "A"
+        },
+        "dimensions": {
+            "val": "2073",
+            "unit": "x"
+        },
+        "weight": {
+            "val": "25,1",
+            "unit": "Kg"
+        },
+        "connector ": "Compatível com MC4",
+        "tempCoeffPmax": "-0.35 %/°C",
+        "tempCoeffVoc": "-0,27 %/ºC",
+        "tempCoeffIsc": {
+            "val": "0,048",
+            "unit": ""
+        },
+        "manufacturer": "LONGi Solar"
+    },
+    {
+        "model": "EMSE-535M HC",
+        "technology": "HALF CELL ",
+        "maxPower": {
+            "val": "535",
+            "unit": "W"
+        },
+        "efficiency": {
+            "val": "20,7",
+            "unit": ""
+        },
+        "nominalVoltage": {
+            "val": "38,65",
+            "unit": "V"
+        },
+        "openCircuitVoltage": {
+            "val": "46,28",
+            "unit": "V"
+        },
+        "shortCircuitCurrent": {
+            "val": "11,09",
+            "unit": "A"
+        },
+        "dimensions": {
+            "val": "1134",
+            "unit": "x"
+        },
+        "weight": {
+            "val": "27",
+            "unit": "Kg"
+        },
+        "connector ": "Compatível com MC4",
+        "tempCoeffPmax": "-0,35 %/ºC",
+        "tempCoeffVoc": "-0,275 %/ºC",
+        "tempCoeffIsc": "+0,05 %/ºC",
+        "manufacturer": "INTELBRAS"
+    },
+    {
+        "model": "EMSB-535M HC",
+        "technology": " HALF CELL ",
+        "maxPower": {
+            "val": "535",
+            "unit": "W"
+        },
+        "efficiency": {
+            "val": "20,7",
+            "unit": ""
+        },
+        "nominalVoltage": {
+            "val": "41,45",
+            "unit": "V"
+        },
+        "openCircuitVoltage": {
+            "val": "49,31",
+            "unit": "V"
+        },
+        "shortCircuitCurrent": {
+            "val": "13,79",
+            "unit": "A"
+        },
+        "dimensions": {
+            "val": "1134",
+            "unit": "x"
+        },
+        "weight": {
+            "val": "28,6",
+            "unit": "kg"
+        },
+        "connector ": "Compatível com MC4",
+        "tempCoeffPmax": "-0,36 %/ºC",
+        "tempCoeffVoc": "-0,29 %/ºC",
+        "tempCoeffIsc": "+0,048 %/ºC",
+        "manufacturer": "INTELBRAS"
+    },
+    {
+        "model": "EMSH 540BM",
+        "technology": " HALF CELL & DOUBLE GLASS ",
+        "maxPower": {
+            "val": "540",
+            "unit": "W"
+        },
+        "efficiency": {
+            "val": "20,80",
+            "unit": ""
+        },
+        "nominalVoltage": {
+            "val": "41,70",
+            "unit": "V"
+        },
+        "openCircuitVoltage": {
+            "val": "49,50",
+            "unit": "V"
+        },
+        "shortCircuitCurrent": {
+            "val": "13,90",
+            "unit": "A"
+        },
+        "dimensions": {
+            "val": "1134",
+            "unit": "x"
+        },
+        "weight": {
+            "val": "28,5",
+            "unit": "kg"
+        },
+        "connector ": "Compatível com MC4",
+        "tempCoeffPmax": "-0,36 %/ºC",
+        "tempCoeffVoc": "-0,29 %/ºC",
+        "tempCoeffIsc": "+0,049 %/ºC",
+        "manufacturer": "INTELBRAS"
+    },
+    {
+        "model": "EMST 545B SG",
+        "technology": " SHINGLED ",
+        "maxPower": {
+            "val": "545",
+            "unit": "W"
+        },
+        "efficiency": {
+            "val": "20,90",
+            "unit": ""
+        },
+        "nominalVoltage": {
+            "val": "39,00",
+            "unit": "V"
+        },
+        "openCircuitVoltage": {
+            "val": "47,00",
+            "unit": "V"
+        },
+        "shortCircuitCurrent": {
+            "val": "14,86",
+            "unit": "A"
+        },
+        "dimensions": {
+            "val": "1096",
+            "unit": "x"
+        },
+        "weight": {
+            "val": "32,5",
+            "unit": "kg"
+        },
+        "connector ": "Compatível com MC4",
+        "tempCoeffPmax": "-0,34 %/ºC",
+        "tempCoeffVoc": "-0,27 %/ºC",
+        "tempCoeffIsc": "+0,04 %ºC",
+        "manufacturer": "INTELBRAS"
+    },
+    {
+        "model": "OSDA ODA 545-36V-MH",
+        "technology": "Monocristalino",
+        "maxPower": {
+            "val": "545",
+            "unit": "W"
+        },
+        "efficiency": {
+            "val": "21,51",
+            "unit": ""
+        },
+        "nominalVoltage": {
+            "val": "41,93",
+            "unit": "V"
+        },
+        "openCircuitVoltage": {
+            "val": "49,90",
+            "unit": "V"
+        },
+        "shortCircuitCurrent": {
+            "val": "13,00",
+            "unit": "A"
+        },
+        "dimensions": {
+            "val": "1133",
+            "unit": "x"
+        },
+        "weight": {
+            "val": "28,40",
+            "unit": "kg"
+        },
+        "connector ": "Compatível com MC4",
+        "tempCoeffPmax": "-0.350 %/ºC",
+        "tempCoeffVoc": "-0,285 %/°C",
+        "tempCoeffIsc": "+0,045 %/°C",
+        "manufacturer": "OSDA "
+    },
+    {
+        "model": "EMSH 550 HC",
+        "technology": " HALF CELL ",
+        "maxPower": {
+            "val": "550",
+            "unit": "W"
+        },
+        "efficiency": {
+            "val": "21,30",
+            "unit": ""
+        },
+        "nominalVoltage": {
+            "val": "41,95",
+            "unit": "V"
+        },
+        "openCircuitVoltage": {
+            "val": "49,80",
+            "unit": "V"
+        },
+        "shortCircuitCurrent": {
+            "val": "14,00",
+            "unit": "A"
+        },
+        "dimensions": {
+            "val": "1134",
+            "unit": "x"
+        },
+        "weight": {
+            "val": "27,0",
+            "unit": "kg"
+        },
+        "connector ": "Compatível com MC4",
+        "tempCoeffPmax": "-0,33 %/ºC",
+        "tempCoeffVoc": "-0,26 %/ºC",
+        "tempCoeffIsc": "+0,042 %/ºC",
+        "manufacturer": "INTELBRAS"
+    },
+    {
+        "model": "OUROLUX - 550 W",
+        "technology": "Monocristalino",
+        "maxPower": {
+            "val": "550",
+            "unit": "W"
+        },
+        "efficiency": {
+            "val": "21,30",
+            "unit": ""
+        },
+        "nominalVoltage": {
+            "val": "41,95",
+            "unit": "V"
+        },
+        "openCircuitVoltage": {
+            "val": "49,8",
+            "unit": "V"
+        },
+        "shortCircuitCurrent": {
+            "val": "13,98",
+            "unit": "A"
+        },
+        "dimensions": {
+            "val": "1140",
+            "unit": "x"
+        },
+        "weight": {
+            "val": "27,2",
+            "unit": "kg"
+        },
+        "connector ": "",
+        "tempCoeffPmax": "-0.350%/°C",
+        "tempCoeffVoc": "-0.270%/°C",
+        "tempCoeffIsc": " +0,048 %/°C",
+        "manufacturer": "OUROLUX"
+    },
+    {
+        "model": "RENO-R 550 ",
+        "technology": "Silício Monocristalino",
+        "maxPower": {
+            "val": "550",
+            "unit": "W"
+        },
+        "efficiency": {
+            "val": "21,30",
+            "unit": ""
+        },
+        "nominalVoltage": {
+            "val": "41,96",
+            "unit": "V"
+        },
+        "openCircuitVoltage": {
+            "val": "49,90",
+            "unit": "V"
+        },
+        "shortCircuitCurrent": {
+            "val": "13,11",
+            "unit": "A"
+        },
+        "dimensions": {
+            "val": "1134",
+            "unit": "x"
+        },
+        "weight": {
+            "val": "28,6",
+            "unit": "kg"
+        },
+        "connector ": "Compatível com MC4",
+        "tempCoeffPmax": "-0,35 %/ºC",
+        "tempCoeffVoc": "-0,27 %/ºC",
+        "tempCoeffIsc": "+0,050 %/ºC",
+        "manufacturer": "INTELBRAS"
+    },
+    {
+        "model": "ELG555-M10HHN",
+        "technology": "Monocristalino (Half-Cell)",
+        "maxPower": {
+            "val": "555",
+            "unit": "W"
+        },
+        "efficiency": {
+            "val": "21,48",
+            "unit": ""
+        },
+        "nominalVoltage": {
+            "val": "41,41",
+            "unit": "V"
+        },
+        "openCircuitVoltage": {
+            "val": "49,93",
+            "unit": "V"
+        },
+        "shortCircuitCurrent": {
+            "val": "14,09",
+            "unit": "A"
+        },
+        "dimensions": {
+            "val": "1134",
+            "unit": "x"
+        },
+        "weight": {
+            "val": "28,5",
+            "unit": "kg"
+        },
+        "connector ": "Compatível com MC4",
+        "tempCoeffPmax": " -0,36 %/ºC",
+        "tempCoeffVoc": "-0,29 %/ºC",
+        "tempCoeffIsc": "+0,048% / ºC",
+        "manufacturer": "ELGIN"
+    },
+    {
+        "model": "EMSB-555 HC",
+        "technology": "Silício Monocristalino",
+        "maxPower": {
+            "val": "555",
+            "unit": "W"
+        },
+        "efficiency": {
+            "val": "21,48",
+            "unit": ""
+        },
+        "nominalVoltage": {
+            "val": "42,08",
+            "unit": "V"
+        },
+        "openCircuitVoltage": {
+            "val": "49,91",
+            "unit": "V"
+        },
+        "shortCircuitCurrent": {
+            "val": "13,19",
+            "unit": "A"
+        },
+        "dimensions": {
+            "val": "1134",
+            "unit": "x"
+        },
+        "weight": {
+            "val": "28,0",
+            "unit": "kg"
+        },
+        "connector ": "Compatível com MC4",
+        "tempCoeffPmax": "-0,36 %/ºC",
+        "tempCoeffVoc": "-0,29 %/ºC",
+        "tempCoeffIsc": "+0,048 %/ºC",
+        "manufacturer": "INTELBRAS"
+    },
+    {
+        "model": "RENO-C 555",
+        "technology": "Silício Monocristalino",
+        "maxPower": {
+            "val": "555",
+            "unit": "W"
+        },
+        "efficiency": {
+            "val": "21,50",
+            "unit": ""
+        },
+        "nominalVoltage": {
+            "val": "42,27",
+            "unit": "V"
+        },
+        "openCircuitVoltage": {
+            "val": "50,30",
+            "unit": "V"
+        },
+        "shortCircuitCurrent": {
+            "val": "13,13",
+            "unit": "A"
+        },
+        "dimensions": {
+            "val": "1134",
+            "unit": "x"
+        },
+        "weight": {
+            "val": "26,6",
+            "unit": "kg"
+        },
+        "connector ": "Compatível com MC4",
+        "tempCoeffPmax": "-0,35 %/ºC",
+        "tempCoeffVoc": "-0,27 %/ºC",
+        "tempCoeffIsc": "+0,042 %/°C",
+        "manufacturer": "INTELBRAS"
+    },
+    {
+        "model": "ODA555-36V-MH",
+        "technology": "Monocristalino (Half-Cell)",
+        "maxPower": {
+            "val": "555",
+            "unit": "W"
+        },
+        "efficiency": {
+            "val": "21,48",
+            "unit": ""
+        },
+        "nominalVoltage": {
+            "val": "42,27",
+            "unit": "V"
+        },
+        "openCircuitVoltage": {
+            "val": "50,30",
+            "unit": "V"
+        },
+        "shortCircuitCurrent": {
+            "val": "14,10",
+            "unit": "A"
+        },
+        "dimensions": {
+            "val": "1134",
+            "unit": "x"
+        },
+        "weight": {
+            "val": "28,4",
+            "unit": "kg"
+        },
+        "connector ": "Compatível com MC4",
+        "tempCoeffPmax": "-0,35%/°C",
+        "tempCoeffVoc": "-0,29 %/°C",
+        "tempCoeffIsc": "+0,05%/°C",
+        "manufacturer": "OSDA"
+    },
+    {
+        "model": "TIGER PRO JKM555M-72HL4-V",
+        "technology": "P Type Monocristalina",
+        "maxPower": {
+            "val": "555",
+            "unit": "W"
+        },
+        "efficiency": {
+            "val": "21.48",
+            "unit": ""
+        },
+        "nominalVoltage": {
+            "val": "40,99",
+            "unit": "V"
+        },
+        "openCircuitVoltage": {
+            "val": "49,722",
+            "unit": "V"
+        },
+        "shortCircuitCurrent": {
+            "val": "14.12",
+            "unit": "A"
+        },
+        "dimensions": {
+            "val": "2261",
+            "unit": "x"
+        },
+        "weight": {
+            "val": "27",
+            "unit": "Kg"
+        },
+        "connector ": "MC4",
+        "tempCoeffPmax": {
+            "val": "45",
+            "unit": ""
+        },
+        "tempCoeffVoc": "-0.28 % / °C",
+        "tempCoeffIsc": {
+            "val": "0,048",
+            "unit": ""
+        },
+        "manufacturer": "JINKO"
+    },
+    {
+        "model": "EMST 555M HC",
+        "technology": "Monocristalino (Half-Cell)",
+        "maxPower": {
+            "val": "555",
+            "unit": "W"
+        },
+        "efficiency": {
+            "val": "21,50",
+            "unit": ""
+        },
+        "nominalVoltage": {
+            "val": "41,45",
+            "unit": "V"
+        },
+        "openCircuitVoltage": {
+            "val": "50,11",
+            "unit": "V"
+        },
+        "shortCircuitCurrent": {
+            "val": "13,96",
+            "unit": "A"
+        },
+        "dimensions": {
+            "val": "2278",
+            "unit": "x"
+        },
+        "weight": {
+            "val": "27",
+            "unit": "kg"
+        },
+        "connector ": "Compatível com MC4",
+        "tempCoeffPmax": "-0,33 %/ºC",
+        "tempCoeffVoc": "-0,27 %/ºC",
+        "tempCoeffIsc": "+0,05 %/°C",
+        "manufacturer": "INTELBRAS"
+    },
+    {
+        "model": "ASTROENERGY - 570 W",
+        "technology": "Monocristalino",
+        "maxPower": {
+            "val": "570",
+            "unit": "W"
+        },
+        "efficiency": {
+            "val": "22,10",
+            "unit": ""
+        },
+        "nominalVoltage": {
+            "val": "43,70",
+            "unit": "V"
+        },
+        "openCircuitVoltage": {
+            "val": "52,00",
+            "unit": "V"
+        },
+        "shortCircuitCurrent": {
+            "val": "13,79",
+            "unit": "A"
+        },
+        "dimensions": {
+            "val": "1134",
+            "unit": "x"
+        },
+        "weight": {
+            "val": "32,1",
+            "unit": "Kg"
+        },
+        "connector ": "Compatível com MC4",
+        "tempCoeffPmax": "-0.29%/℃",
+        "tempCoeffVoc": "-0.25 %/℃",
+        "tempCoeffIsc": "+0,043 %/℃",
+        "manufacturer": "ASTROENERGY"
+    },
+    {
+        "model": "ERA Pro-72HC 585M",
+        "technology": "Monocristalino",
+        "maxPower": {
+            "val": "585",
+            "unit": "W"
+        },
+        "efficiency": {
+            "val": "22,65",
+            "unit": ""
+        },
+        "nominalVoltage": {
+            "val": "42,70",
+            "unit": "V"
+        },
+        "openCircuitVoltage": {
+            "val": "51,10",
+            "unit": "V"
+        },
+        "shortCircuitCurrent": {
+            "val": "14,31",
+            "unit": "A"
+        },
+        "dimensions": {
+            "val": "2278",
+            "unit": "x"
+        },
+        "weight": {
+            "val": "27.7",
+            "unit": "kg"
+        },
+        "connector ": "Compatível com MC4",
+        "tempCoeffPmax": "-0,30%/°C",
+        "tempCoeffVoc": "-0,24 %/°C",
+        "tempCoeffIsc": "+0,043 %/°C",
+        "manufacturer": "ERA"
+    },
+    {
+        "model": "AS-7M144-HC-550",
+        "technology": "Monocristalino",
+        "maxPower": {
+            "val": "550",
+            "unit": "W"
+        },
+        "efficiency": {
+            "val": "21,50",
+            "unit": ""
+        },
+        "nominalVoltage": {
+            "val": "38.1",
+            "unit": "V"
+        },
+        "openCircuitVoltage": {
+            "val": "50.0",
+            "unit": "V"
+        },
+        "shortCircuitCurrent": {
+            "val": "13,94",
+            "unit": "A"
+        },
+        "dimensions": {
+            "val": "2256",
+            "unit": "x"
+        },
+        "weight": {
+            "val": "29",
+            "unit": "Kg"
+        },
+        "connector ": "Compatível com MC4",
+        "tempCoeffPmax": "-0.36%/°C",
+        "tempCoeffVoc": "-0.28 %/°C",
+        "tempCoeffIsc": "+0,05 %/°C",
+        "manufacturer": "AmeriSolar"
+    },
+    {
+        "model": "EMSC 555 HC",
+        "technology": "Monocristalino",
+        "maxPower": {
+            "val": "555",
+            "unit": "W"
+        },
+        "efficiency": {
+            "val": "21,50",
+            "unit": ""
+        },
+        "nominalVoltage": {
+            "val": "42,27",
+            "unit": "V"
+        },
+        "openCircuitVoltage": {
+            "val": "50,30",
+            "unit": "V"
+        },
+        "shortCircuitCurrent": {
+            "val": "13,98",
+            "unit": "A"
+        },
+        "dimensions": {
+            "val": "2278",
+            "unit": "x"
+        },
+        "weight": {
+            "val": "26,6",
+            "unit": "kg"
+        },
+        "connector ": "Compatível com MC4",
+        "tempCoeffPmax": "-0,3 %/ºC",
+        "tempCoeffVoc": "-0,25 %/ºC",
+        "tempCoeffIsc": "+0,04 %/ºC",
+        "manufacturer": "INTELBRAS"
+    },
+    {
+        "model": "EMSH-550 HC",
+        "technology": "Monocristalino",
+        "maxPower": {
+            "val": "550",
+            "unit": "W"
+        },
+        "efficiency": {
+            "val": "21,30",
+            "unit": ""
+        },
+        "nominalVoltage": {
+            "val": "41,95",
+            "unit": "V"
+        },
+        "openCircuitVoltage": {
+            "val": "49,80",
+            "unit": "V"
+        },
+        "shortCircuitCurrent": {
+            "val": "13,12",
+            "unit": "A"
+        },
+        "dimensions": {
+            "val": "2278",
+            "unit": "x"
+        },
+        "weight": {
+            "val": "27,0",
+            "unit": "kg"
+        },
+        "connector ": "Compatível com MC4 ",
+        "tempCoeffPmax": "-0,33 %/ºC ",
+        "tempCoeffVoc": "-0,26 %/ºC ",
+        "tempCoeffIsc": "+0,042 %/ºC ",
+        "manufacturer": "INTELBRAS"
+    }
+]
