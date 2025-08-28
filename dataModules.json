@@ -10,9 +10,9 @@
         "dimensions": "1096 x 1899 x 30 mm",
         "weight": "21,8 kg",
         "connector ": "Compatível com MC4",
-        "tempCoeffPmax": "-0,34 %/ºC",
-        "tempCoeffVoc": "-0,27 %/ºC",
-        "tempCoeffIsc": "+0,04%ºC",
+        "tempCoeffPmax": "-0,34 %/°C",
+        "tempCoeffVoc": "-0,27 %/°C",
+        "tempCoeffIsc": "+0,04%°C",
         "manufacturer": "INTELBRAS"
     },
     {
@@ -26,9 +26,9 @@
         "dimensions": "1038 x 2094 x 35mm",
         "weight": "28,5 Kg",
         "connector ": "Compatível com MC4",
-        "tempCoeffPmax": "-0,36%/ºC",
-        "tempCoeffVoc": "-0,29%/ºC",
-        "tempCoeffIsc": "+0,048%/ºC",
+        "tempCoeffPmax": "-0,36%/°C",
+        "tempCoeffVoc": "-0,29%/°C",
+        "tempCoeffIsc": "+0,048%/°C",
         "manufacturer": "DAH SOLAR"
     },
     {
@@ -42,9 +42,9 @@
         "dimensions": "1903 x 1134 x 30 mm",
         "weight": "23,4 kg",
         "connector ": "Compatível com MC4",
-        "tempCoeffPmax": "-0,36 %/ºC",
-        "tempCoeffVoc": "-0,29 %/ºC",
-        "tempCoeffIsc": "+0,048 %/ºC",
+        "tempCoeffPmax": "-0,36 %/°C",
+        "tempCoeffVoc": "-0,29 %/°C",
+        "tempCoeffIsc": "+0,048 %/°C",
         "manufacturer": "INTELBRAS"
     },
     {
@@ -59,7 +59,7 @@
         "weight": "25,1 Kg",
         "connector ": "Compatível com MC4",
         "tempCoeffPmax": "-0.35 %/°C",
-        "tempCoeffVoc": "-0,27 %/ºC",
+        "tempCoeffVoc": "-0,27 %/°C",
         "tempCoeffIsc": "0,048 %/°C",
         "manufacturer": "LONGi Solar"
     },
@@ -74,9 +74,9 @@
         "dimensions": "1134 x 2279 x 35 mm",
         "weight": "27 Kg",
         "connector ": "Compatível com MC4",
-        "tempCoeffPmax": "-0,35 %/ºC",
-        "tempCoeffVoc": "-0,275 %/ºC",
-        "tempCoeffIsc": "+0,05 %/ºC",
+        "tempCoeffPmax": "-0,35 %/°C",
+        "tempCoeffVoc": "-0,275 %/°C",
+        "tempCoeffIsc": "+0,05 %/°C",
         "manufacturer": "INTELBRAS"
     },
     {
@@ -90,9 +90,9 @@
         "dimensions": "1134 x 2279 x 35 mm",
         "weight": "28,6 kg",
         "connector ": "Compatível com MC4",
-        "tempCoeffPmax": "-0,36 %/ºC",
-        "tempCoeffVoc": "-0,29 %/ºC",
-        "tempCoeffIsc": "+0,048 %/ºC",
+        "tempCoeffPmax": "-0,36 %/°C",
+        "tempCoeffVoc": "-0,29 %/°C",
+        "tempCoeffIsc": "+0,048 %/°C",
         "manufacturer": "INTELBRAS"
     },
     {
@@ -106,9 +106,9 @@
         "dimensions": "1134 x 2279 x 35 mm",
         "weight": "28,5 kg",
         "connector ": "Compatível com MC4",
-        "tempCoeffPmax": "-0,36 %/ºC",
-        "tempCoeffVoc": "-0,29 %/ºC",
-        "tempCoeffIsc": "+0,049 %/ºC",
+        "tempCoeffPmax": "-0,36 %/°C",
+        "tempCoeffVoc": "-0,29 %/°C",
+        "tempCoeffIsc": "+0,049 %/°C",
         "manufacturer": "INTELBRAS"
     },
     {
@@ -122,9 +122,9 @@
         "dimensions": "1096 x 2384 x 30 mm",
         "weight": "32,5 kg",
         "connector ": "Compatível com MC4",
-        "tempCoeffPmax": "-0,34 %/ºC",
-        "tempCoeffVoc": "-0,27 %/ºC",
-        "tempCoeffIsc": "+0,04 %ºC",
+        "tempCoeffPmax": "-0,34 %/°C",
+        "tempCoeffVoc": "-0,27 %/°C",
+        "tempCoeffIsc": "+0,04 %°C",
         "manufacturer": "INTELBRAS"
     },
     {
@@ -138,7 +138,7 @@
         "dimensions": "1133 x 2256 x 35 mm",
         "weight": "28,40 kg",
         "connector ": "Compatível com MC4",
-        "tempCoeffPmax": "-0.350 %/ºC",
+        "tempCoeffPmax": "-0.350 %/°C",
         "tempCoeffVoc": "-0,285 %/°C",
         "tempCoeffIsc": "+0,045 %/°C",
         "manufacturer": "OSDA "
@@ -154,9 +154,9 @@
         "dimensions": "1134 x 2278 x 30 mm",
         "weight": "27,0 kg",
         "connector ": "Compatível com MC4",
-        "tempCoeffPmax": "-0,33 %/ºC",
-        "tempCoeffVoc": "-0,26 %/ºC",
-        "tempCoeffIsc": "+0,042 %/ºC",
+        "tempCoeffPmax": "-0,33 %/°C",
+        "tempCoeffVoc": "-0,26 %/°C",
+        "tempCoeffIsc": "+0,042 %/°C",
         "manufacturer": "INTELBRAS"
     },
     {
@@ -186,9 +186,9 @@
         "dimensions": "1134 x 2278 x 30 mm ",
         "weight": "28,6 kg",
         "connector ": "Compatível com MC4",
-        "tempCoeffPmax": "-0,35 %/ºC",
-        "tempCoeffVoc": "-0,27 %/ºC",
-        "tempCoeffIsc": "+0,050 %/ºC",
+        "tempCoeffPmax": "-0,35 %/°C",
+        "tempCoeffVoc": "-0,27 %/°C",
+        "tempCoeffIsc": "+0,050 %/°C",
         "manufacturer": "INTELBRAS"
     },
     {
@@ -202,9 +202,9 @@
         "dimensions": "1134 x 2279 x 35 mm",
         "weight": "28,5 kg",
         "connector ": "Compatível com MC4",
-        "tempCoeffPmax": " -0,36 %/ºC",
-        "tempCoeffVoc": "-0,29 %/ºC",
-        "tempCoeffIsc": "+0,048% / ºC",
+        "tempCoeffPmax": " -0,36 %/°C",
+        "tempCoeffVoc": "-0,29 %/°C",
+        "tempCoeffIsc": "+0,048% / °C",
         "manufacturer": "ELGIN"
     },
     {
@@ -218,9 +218,9 @@
         "dimensions": "1134 x 2278 x 30 mm",
         "weight": "28,0 kg",
         "connector ": "Compatível com MC4",
-        "tempCoeffPmax": "-0,36 %/ºC",
-        "tempCoeffVoc": "-0,29 %/ºC",
-        "tempCoeffIsc": "+0,048 %/ºC",
+        "tempCoeffPmax": "-0,36 %/°C",
+        "tempCoeffVoc": "-0,29 %/°C",
+        "tempCoeffIsc": "+0,048 %/°C",
         "manufacturer": "INTELBRAS"
     },
     {
@@ -234,8 +234,8 @@
         "dimensions": "1134 x 2278 x 30 mm ",
         "weight": "26,6 kg",
         "connector ": "Compatível com MC4",
-        "tempCoeffPmax": "-0,35 %/ºC",
-        "tempCoeffVoc": "-0,27 %/ºC",
+        "tempCoeffPmax": "-0,35 %/°C",
+        "tempCoeffVoc": "-0,27 %/°C",
         "tempCoeffIsc": "+0,042 %/°C",
         "manufacturer": "INTELBRAS"
     },
@@ -282,8 +282,8 @@
         "dimensions": "2278 x 1134 x 35 mm",
         "weight": "27 kg",
         "connector ": "Compatível com MC4",
-        "tempCoeffPmax": "-0,33 %/ºC",
-        "tempCoeffVoc": "-0,27 %/ºC",
+        "tempCoeffPmax": "-0,33 %/°C",
+        "tempCoeffVoc": "-0,27 %/°C",
         "tempCoeffIsc": "+0,05 %/°C",
         "manufacturer": "INTELBRAS"
     },
@@ -346,9 +346,9 @@
         "dimensions": "2278 x 1134 x 30mm",
         "weight": "26,6 kg",
         "connector ": "Compatível com MC4",
-        "tempCoeffPmax": "-0,3 %/ºC",
-        "tempCoeffVoc": "-0,25 %/ºC",
-        "tempCoeffIsc": "+0,04 %/ºC",
+        "tempCoeffPmax": "-0,3 %/°C",
+        "tempCoeffVoc": "-0,25 %/°C",
+        "tempCoeffIsc": "+0,04 %/°C",
         "manufacturer": "INTELBRAS"
     },
     {
@@ -362,9 +362,9 @@
         "dimensions": "2278 x 1134 x 30mm ",
         "weight": "27,0 kg",
         "connector ": "Compatível com MC4 ",
-        "tempCoeffPmax": "-0,33 %/ºC ",
-        "tempCoeffVoc": "-0,26 %/ºC ",
-        "tempCoeffIsc": "+0,042 %/ºC ",
+        "tempCoeffPmax": "-0,33 %/°C ",
+        "tempCoeffVoc": "-0,26 %/°C ",
+        "tempCoeffIsc": "+0,042 %/°C ",
         "manufacturer": "INTELBRAS"
     }
 ]

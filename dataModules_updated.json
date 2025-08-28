@@ -31,9 +31,9 @@
             "unit": "kg"
         },
         "connector ": "Compatível com MC4",
-        "tempCoeffPmax": "-0,34 %/ºC",
-        "tempCoeffVoc": "-0,27 %/ºC",
-        "tempCoeffIsc": "+0,04%ºC",
+        "tempCoeffPmax": "-0,34 %/°C",
+        "tempCoeffVoc": "-0,27 %/°C",
+        "tempCoeffIsc": "+0,04%°C",
         "manufacturer": "INTELBRAS"
     },
     {
@@ -68,9 +68,9 @@
             "unit": "Kg"
         },
         "connector ": "Compatível com MC4",
-        "tempCoeffPmax": "-0,36%/ºC",
-        "tempCoeffVoc": "-0,29%/ºC",
-        "tempCoeffIsc": "+0,048%/ºC",
+        "tempCoeffPmax": "-0,36%/°C",
+        "tempCoeffVoc": "-0,29%/°C",
+        "tempCoeffIsc": "+0,048%/°C",
         "manufacturer": "DAH SOLAR"
     },
     {
@@ -105,9 +105,9 @@
             "unit": "kg"
         },
         "connector ": "Compatível com MC4",
-        "tempCoeffPmax": "-0,36 %/ºC",
-        "tempCoeffVoc": "-0,29 %/ºC",
-        "tempCoeffIsc": "+0,048 %/ºC",
+        "tempCoeffPmax": "-0,36 %/°C",
+        "tempCoeffVoc": "-0,29 %/°C",
+        "tempCoeffIsc": "+0,048 %/°C",
         "manufacturer": "INTELBRAS"
     },
     {
@@ -143,7 +143,7 @@
         },
         "connector ": "Compatível com MC4",
         "tempCoeffPmax": "-0.35 %/°C",
-        "tempCoeffVoc": "-0,27 %/ºC",
+        "tempCoeffVoc": "-0,27 %/°C",
         "tempCoeffIsc": {
             "val": "0,048",
             "unit": ""
@@ -182,9 +182,9 @@
             "unit": "Kg"
         },
         "connector ": "Compatível com MC4",
-        "tempCoeffPmax": "-0,35 %/ºC",
-        "tempCoeffVoc": "-0,275 %/ºC",
-        "tempCoeffIsc": "+0,05 %/ºC",
+        "tempCoeffPmax": "-0,35 %/°C",
+        "tempCoeffVoc": "-0,275 %/°C",
+        "tempCoeffIsc": "+0,05 %/°C",
         "manufacturer": "INTELBRAS"
     },
     {
@@ -219,9 +219,9 @@
             "unit": "kg"
         },
         "connector ": "Compatível com MC4",
-        "tempCoeffPmax": "-0,36 %/ºC",
-        "tempCoeffVoc": "-0,29 %/ºC",
-        "tempCoeffIsc": "+0,048 %/ºC",
+        "tempCoeffPmax": "-0,36 %/°C",
+        "tempCoeffVoc": "-0,29 %/°C",
+        "tempCoeffIsc": "+0,048 %/°C",
         "manufacturer": "INTELBRAS"
     },
     {
@@ -256,9 +256,9 @@
             "unit": "kg"
         },
         "connector ": "Compatível com MC4",
-        "tempCoeffPmax": "-0,36 %/ºC",
-        "tempCoeffVoc": "-0,29 %/ºC",
-        "tempCoeffIsc": "+0,049 %/ºC",
+        "tempCoeffPmax": "-0,36 %/°C",
+        "tempCoeffVoc": "-0,29 %/°C",
+        "tempCoeffIsc": "+0,049 %/°C",
         "manufacturer": "INTELBRAS"
     },
     {
@@ -293,9 +293,9 @@
             "unit": "kg"
         },
         "connector ": "Compatível com MC4",
-        "tempCoeffPmax": "-0,34 %/ºC",
-        "tempCoeffVoc": "-0,27 %/ºC",
-        "tempCoeffIsc": "+0,04 %ºC",
+        "tempCoeffPmax": "-0,34 %/°C",
+        "tempCoeffVoc": "-0,27 %/°C",
+        "tempCoeffIsc": "+0,04 %°C",
         "manufacturer": "INTELBRAS"
     },
     {
@@ -330,7 +330,7 @@
             "unit": "kg"
         },
         "connector ": "Compatível com MC4",
-        "tempCoeffPmax": "-0.350 %/ºC",
+        "tempCoeffPmax": "-0.350 %/°C",
         "tempCoeffVoc": "-0,285 %/°C",
         "tempCoeffIsc": "+0,045 %/°C",
         "manufacturer": "OSDA "
@@ -367,9 +367,9 @@
             "unit": "kg"
         },
         "connector ": "Compatível com MC4",
-        "tempCoeffPmax": "-0,33 %/ºC",
-        "tempCoeffVoc": "-0,26 %/ºC",
-        "tempCoeffIsc": "+0,042 %/ºC",
+        "tempCoeffPmax": "-0,33 %/°C",
+        "tempCoeffVoc": "-0,26 %/°C",
+        "tempCoeffIsc": "+0,042 %/°C",
         "manufacturer": "INTELBRAS"
     },
     {
@@ -441,9 +441,9 @@
             "unit": "kg"
         },
         "connector ": "Compatível com MC4",
-        "tempCoeffPmax": "-0,35 %/ºC",
-        "tempCoeffVoc": "-0,27 %/ºC",
-        "tempCoeffIsc": "+0,050 %/ºC",
+        "tempCoeffPmax": "-0,35 %/°C",
+        "tempCoeffVoc": "-0,27 %/°C",
+        "tempCoeffIsc": "+0,050 %/°C",
         "manufacturer": "INTELBRAS"
     },
     {
@@ -478,9 +478,9 @@
             "unit": "kg"
         },
         "connector ": "Compatível com MC4",
-        "tempCoeffPmax": " -0,36 %/ºC",
-        "tempCoeffVoc": "-0,29 %/ºC",
-        "tempCoeffIsc": "+0,048% / ºC",
+        "tempCoeffPmax": " -0,36 %/°C",
+        "tempCoeffVoc": "-0,29 %/°C",
+        "tempCoeffIsc": "+0,048% / °C",
         "manufacturer": "ELGIN"
     },
     {
@@ -515,9 +515,9 @@
             "unit": "kg"
         },
         "connector ": "Compatível com MC4",
-        "tempCoeffPmax": "-0,36 %/ºC",
-        "tempCoeffVoc": "-0,29 %/ºC",
-        "tempCoeffIsc": "+0,048 %/ºC",
+        "tempCoeffPmax": "-0,36 %/°C",
+        "tempCoeffVoc": "-0,29 %/°C",
+        "tempCoeffIsc": "+0,048 %/°C",
         "manufacturer": "INTELBRAS"
     },
     {
@@ -552,8 +552,8 @@
             "unit": "kg"
         },
         "connector ": "Compatível com MC4",
-        "tempCoeffPmax": "-0,35 %/ºC",
-        "tempCoeffVoc": "-0,27 %/ºC",
+        "tempCoeffPmax": "-0,35 %/°C",
+        "tempCoeffVoc": "-0,27 %/°C",
         "tempCoeffIsc": "+0,042 %/°C",
         "manufacturer": "INTELBRAS"
     },
@@ -669,8 +669,8 @@
             "unit": "kg"
         },
         "connector ": "Compatível com MC4",
-        "tempCoeffPmax": "-0,33 %/ºC",
-        "tempCoeffVoc": "-0,27 %/ºC",
+        "tempCoeffPmax": "-0,33 %/°C",
+        "tempCoeffVoc": "-0,27 %/°C",
         "tempCoeffIsc": "+0,05 %/°C",
         "manufacturer": "INTELBRAS"
     },
@@ -817,9 +817,9 @@
             "unit": "kg"
         },
         "connector ": "Compatível com MC4",
-        "tempCoeffPmax": "-0,3 %/ºC",
-        "tempCoeffVoc": "-0,25 %/ºC",
-        "tempCoeffIsc": "+0,04 %/ºC",
+        "tempCoeffPmax": "-0,3 %/°C",
+        "tempCoeffVoc": "-0,25 %/°C",
+        "tempCoeffIsc": "+0,04 %/°C",
         "manufacturer": "INTELBRAS"
     },
     {
@@ -854,9 +854,9 @@
             "unit": "kg"
         },
         "connector ": "Compatível com MC4 ",
-        "tempCoeffPmax": "-0,33 %/ºC ",
-        "tempCoeffVoc": "-0,26 %/ºC ",
-        "tempCoeffIsc": "+0,042 %/ºC ",
+        "tempCoeffPmax": "-0,33 %/°C ",
+        "tempCoeffVoc": "-0,26 %/°C ",
+        "tempCoeffIsc": "+0,042 %/°C ",
         "manufacturer": "INTELBRAS"
     }
 ]
