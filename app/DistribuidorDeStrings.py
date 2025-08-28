@@ -136,3 +136,6 @@ def distribuir_strings(total_modulos, openCircuitVoltage, stringsPerMppt, voltag
     # print("\nDistribuição final dos módulos por MPPT:", distrib)
     # print(f"Módulos Excedentes: {modulos_restantes}")
     return distrib
+
+
+
